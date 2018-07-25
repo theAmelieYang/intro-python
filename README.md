@@ -2,7 +2,7 @@
 ## Program
 * [Python setup](http://repl.it)
 * [Python Basic 1: Variable](notebooks/Python%20Coding%201%20Variables.ipynb)
-* [Python Basic 2: Condition]
+* [Python Basic 2: Condition](notebooks/Python%20Coding%202%20Condition.ipynb)
 * [Python Basic 3: Loop & function]
 * [Python Basic 4: Data structure]
 
