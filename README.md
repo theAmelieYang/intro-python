@@ -3,8 +3,8 @@
 * [Python setup](http://repl.it)
 * [Python Basic 1: Variable](notebooks/Python%20Coding%201%20Variables.ipynb)
 * [Python Basic 2: Condition](notebooks/Python%20Coding%202%20Condition.ipynb)
-* [Python Basic 3: Loop & function]
-* [Python Basic 4: Data structure]
+* [Python Basic 3: Loop & function](notebooks/Python%20Coding%203%20Loop%20and%20Function.ipynb)
+* [Python Basic 4: Data structure](notebooks/Python%20Coding%204%20Data%20structure.ipynb)
 * [Beginner Python Exercises](notebooks/Exercises.ipynb)
 
 ## Schedule
