@@ -5,6 +5,7 @@
 * [Python Basic 2: Condition](notebooks/Python%20Coding%202%20Condition.ipynb)
 * [Python Basic 3: Loop & function]
 * [Python Basic 4: Data structure]
+* [Beginner Python Exercises](notebooks/Exercises.ipynb)
 
 ## Schedule
 ```
