@@ -10,8 +10,8 @@
 ## Schedule
 ```
 July 26
-14:00-15:15  Python Basic 1
-15:30-16:45  Python Basic 2
+14:00-15:00  Python Basic 1
+15:25-16:25  Python Basic 2
 
 July 27
 09:30-10:30  Python Basic 3
